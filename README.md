@@ -21,8 +21,8 @@ FMCG teams need an automated, reproducible pipeline to turn emailed order data i
 
 ##  related images and large files
 - Workflow diagrams and screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/My%20workflow.png"> Worflow</a> 
-- n8n screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Postgre_data_ingestion.png"> 
-- Quadratic sheet exports: < a href="https://app.quadratichq.com/file/2b832f63-f5cb-4685-8cc8-83570e830b30"> <a>
+- n8n screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Postgre_data_ingestion.png"> </a>
+- Quadratic sheet exports: < a href="https://app.quadratichq.com/file/2b832f63-f5cb-4685-8cc8-83570e830b30"> </a>
 - Processed outputs: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Postgre_data_ingestion.json"></a>
 
 ## Conclusion
