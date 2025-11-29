@@ -20,9 +20,9 @@ FMCG teams need an automated, reproducible pipeline to turn emailed order data i
 - Business analyses: estimated revenue loss from unshipped quantities, customers with OTIF discrepancies, categories with low In Full rates, average delivery delay statistics.
 
 ##  related images and large files
-- Workflow diagrams and screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/My%20workflow.png"> </a> 
-- n8n screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Postgre_data_ingestion.png"> </a>
-- Quadratic sheet : <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Date%20Table.xlsx"></a>
+- Workflow diagrams and screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/My%20workflow.png">Workflow </a> 
+- n8n screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Postgre_data_ingestion.png"> Postgre_data_ingestion </a>
+- <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Date%20Table.xlsx">Quadratic sheet</a>
 
 ## Conclusion
 Compute the KPIs from fact_summary to quantify operational gaps. Focus first on OTIF and revenue loss from unshipped quantities: OTIF synthesizes the customer experience, while revenue loss quantifies business impact.
