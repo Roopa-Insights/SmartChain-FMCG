@@ -14,7 +14,7 @@ FMCG teams need an automated, reproducible pipeline to turn emailed order data i
 - Produces a canonical fact_summary table and KPI outputs using pandas.
 - Stores raw and cleaned tables in Supabase Postgres.
 - Automates scheduled reports and alerts via n8n.
-- 
+
 ## Core outputs
 - KPI outputs: Total Order Lines, Line Fill Rate, Volume Fill Rate, Total Orders, On Time %, In Full %, OTIF %.
 - Business analyses: estimated revenue loss from unshipped quantities, customers with OTIF discrepancies, categories with low In Full rates, average delivery delay statistics.
@@ -23,6 +23,8 @@ FMCG teams need an automated, reproducible pipeline to turn emailed order data i
 - Workflow diagrams and screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/My%20workflow.png">Workflow </a> 
 - n8n screenshots: <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Postgre_data_ingestion.png"> Postgre_data_ingestion </a>
 - <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Date%20Table.xlsx">Quadratic sheet</a>
+- <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/Postgre_data_ingestion.json">Postgre_data_ingestion.json</a>
+- <a href="https://github.com/Roopa-Insights/SmartChain-FMCG/blob/main/My%20workflow.json">My workflow.json</a>
 
 ## Conclusion
 Compute the KPIs from fact_summary to quantify operational gaps. Focus first on OTIF and revenue loss from unshipped quantities: OTIF synthesizes the customer experience, while revenue loss quantifies business impact.
